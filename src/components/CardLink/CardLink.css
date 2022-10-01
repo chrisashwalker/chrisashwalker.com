@@ -1,3 +1,7 @@
-.cw-hover:hover {
-    filter: drop-shadow(8px 8px 8px #212529);;
+.cw-card-link {
+    max-width: max-content;
+}
+
+.cw-card-link:hover {
+    filter: drop-shadow(8px 8px 8px #212529);
 }
