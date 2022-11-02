@@ -20,12 +20,7 @@ function App() {
 
     return (
         <Container fluid className="cw-bg">
-            <Row xs={1} lg={3} className="min-vh-100 align-items-center pb-4">
-                <CardLink
-                    img="instagramSnip.png"
-                    url="https://instagram.com/chrisashwalker"
-                    text="instagram.com/chrisashwalker"
-                />
+            <Row xs={1} lg={2} className="min-vh-100 align-items-center pb-4">
                 <CardLink
                     img="linkedinSnip.png"
                     url="https://linkedin.com/in/chrisashwalker"
